@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: hit counter, visit counter, traffic count, hit counter widget, hit counter plugin, visit counter widget, visit counter plugin, traffic count widget, traffic count plugin, mobile responsive
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Hit Counter
     Plugin URI: http://www.powr.io
-    Description: Display your visit count with a fully customizable hit counter. Add the widget to your theme, or create a Hit Counter on ANY page or post by using the shortcode [powr-hit-counter]. Then, simply visit your site and click the settings icon to customize your Hit Counter right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Track and display your site's visits with this easy to use Hit Counter! Add the widget to your theme, or create a Hit Counter on ANY page or post by using the shortcode [powr-hit-counter]. Then, simply visit your site and click the settings icon to customize your Hit Counter right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
