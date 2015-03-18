@@ -36,6 +36,7 @@ First, download, install, and activate POWr Hit Counter. Then drop the widget an
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Hit Counter.
 <br>
