@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: hit counter, visit counter, traffic count, hit counter widget, hit counter plugin, visit counter widget, visit counter plugin, traffic count widget, traffic count plugin, mobile responsive, statistics, view counter, web counter, tracking, visitors, responsive web design, personalized, customize, optimize, sidebar, drag and drop, WYSIWYG
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,7 @@ First, download, install, and activate POWr Hit Counter. Then drop the widget an
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
