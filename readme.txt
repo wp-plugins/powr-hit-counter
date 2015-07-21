@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Track and display visits for any page!
 
 == Description ==
- Track and display visits for any page!
+[youtube https://www.youtube.com/watch?v=OdUHShj0NpA] Track and display visits for any page!
 <br>
 <br>
 POWr Hit Counter is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
